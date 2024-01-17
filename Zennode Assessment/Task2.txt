@@ -1,0 +1,33 @@
+Question: Why do you like to join as a Software developer?
+Ans: I am passionate for problem-solving, creativity, and the desire to contribute to building innovative solutions. My interest in continuously learning and adapting to new technologies, as the field of software development is dynamic and ever-evolving.
+
+Question: List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+Ans: 
+1.Visual Studio Code:
+Reason: Visual Studio Code (VS Code) is a versatile and powerful code editor with a wide range of extensions. It is clean interface, integrated Git support, and active community make it a favorite among developers.
+2.Eclipse:
+Reason: Eclipse IDE is a Java based code editor. It is clean interface.
+3.Git/GitHub:
+Reason: Git, along with platforms like GitHub, facilitates collaborative development and version control. It promotes efficient teamwork, code sharing, and transparency in the development process.
+
+Question: List top 3 organisations you like to join in your career & why you like these organisations.
+Ans:
+1 Google:
+Reason: Google is known for its emphasis on innovation, challenging projects, and a culture that encourages employees to explore new ideas. The opportunity to work on cutting-edge technologies and contribute to products with a global impact is appealing.
+2 Microsoft:
+Reason: Microsoft is a leader in various domains, including cloud computing, artificial intelligence, and software development tools. Joining Microsoft provides exposure to a diverse range of projects and opportunities for career growth.
+3 SpaceX:
+Reason: SpaceX combines technology, engineering, and a vision for space exploration. The unique and ambitious projects, such as reusable rockets and plans for interplanetary travel, make it an exciting place for individuals who seek challenges and want to be part of groundbreaking advancements.
+
+Question: List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
+Ans: 
+1 Design and Development of Encrypted Messenger, Hyderabad, Telangana
+The encrypted messenger application provides a reliable and secure platform for communication, making it an ideal choice for those who value privacy and security in their digital communications. We mainly focus on Cryptography Algorithms to make application more secure. This Project is developed using HTML, CSS, JavaScript, Java, Servlets, JSP, and SQL.
+2 E-book Management System, Hyderabad, Telangana
+E-book Management System simplifies the process of managing e-books, from creation and organization to distribution and sales. It brings efficiency, organization, and improved control over the entire e-book publishing lifecycle. This Project is developed using HTML, CSS, Bootstrap, JavaScript, Java, Servlets, JSP, JSTL and SQL.
+3 College Fee Management System, Hyderabad, Telangana
+In our institution, we are implementing a college fee management system to replace the paper-based process with a user-friendly digital platform. The system will simplify record-keeping and improve accuracy, with all functions managed by the admin and students able to submit their exam fee details online. This Project is developed using 
+HTML, CSS, JavaScript, PHP, and MySQL
+
+Question: How you position yourself in this industry after 2 years.
+Ans: In two years, I envision myself as a proficient and adaptable software developer with expertise in specific technologies or domains. I aim to contribute to challenging projects, collaborate with diverse teams, and continue learning and staying updated with industry trends.
